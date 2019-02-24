@@ -1,0 +1,17 @@
+{
+  "name": "money-money-money",
+  "version": "1.0.0",
+  "description": "Extracts data from a DAT file and returns an object with useful information.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Jakob Fix",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parse": "^4.3.3",
+    "moment": "^2.24.0",
+    "stream-transform": "^1.0.8"
+  }
+}
