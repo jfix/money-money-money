@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "csv-parse": "^4.6.3",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "multistream": "^2.1.1",
     "stream-transform": "^1.0.8"
   }
